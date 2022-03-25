@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+    font-family: cursive;
+}
+
+html{
+    scroll-behavior: smooth;
+  }
+
+body{
+    font-size: 30px;
+    align-items: center;
+    text-align: center;
+}
+
+header h1{
+    color: green;
+    align-items: center;
+    text-align: center;
+}
+
+
+img {   
+border: solid 4px #ADD8E6	;
+}	
+
+th {
+background-color: #ADD8E6	;
+}
+
+table, tr, th, td {
+border: solid 3px #0000FF; 
+text-align: center;
+}
+
